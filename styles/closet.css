@@ -1,3 +1,5 @@
 body {
-    background-image: url("closet.png");
+background: url("../gif.gif") left center no-repeat;
+width: 700px;
+    height: 500px
 }
