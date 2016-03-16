@@ -1,5 +1,13 @@
 body {
-background: url("../.png") left center no-repeat;
-width: 700px;
-    height: 500px
+background: url("../kois.gif") left center no-repeat;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+height: 700px;
+}
+
+button {
+  border-style: solid;
+  border-color: #0007D1;
+  height: 35px
 }

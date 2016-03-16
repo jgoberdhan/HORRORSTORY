@@ -1,7 +1,13 @@
 body {
-background: url("../.png") left center no-repeat;
+background: url("../scary.gif") left center no-repeat;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
-background-size: cover;
+height: 700px
+}
+
+button {
+  border-style: solid;
+  border-color: #0007D1;
+  height: 35px
 }

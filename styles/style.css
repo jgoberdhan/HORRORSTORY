@@ -1,6 +1,7 @@
 button {
   border-style: solid;
   border-color: #0007D1;
+  height: 35px
 }
 
 body {
@@ -9,8 +10,4 @@ background: url("../the-closet.png") left center no-repeat;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-}
-
-html {
-  cursor: url("../cursor.cur")
 }

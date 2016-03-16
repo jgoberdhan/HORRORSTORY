@@ -3,3 +3,9 @@ background: url("../lake.png") left center no-repeat;
 width: 175px;
     height: 825px
 }
+
+button {
+  border-style: solid;
+  border-color: #0007D1;
+  height: 35px
+}

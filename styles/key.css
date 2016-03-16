@@ -1,5 +1,16 @@
 body {
 background: url("../key_pic.png") left center no-repeat;
-width: 700px;
-    height: 500px
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+height: 700px;
+
+}
+
+button {
+  border-style: solid;
+  border-color: #0007D1;
+  height: 35px
+  margin-left:auto;
+    margin-right:auto;
 }
