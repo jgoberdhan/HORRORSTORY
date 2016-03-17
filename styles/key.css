@@ -10,7 +10,9 @@ height: 700px;
 button {
   border-style: solid;
   border-color: #0007D1;
-  height: 35px
-  margin-left:auto;
-    margin-right:auto;
+  height: 50px
+}
+
+h1{
+  text-align: center;
 }

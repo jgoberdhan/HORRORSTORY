@@ -1,11 +1,14 @@
 body {
 background: url("../lake.png") left center no-repeat;
-width: 175px;
-    height: 825px
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+height: 700px;
 }
 
 button {
   border-style: solid;
   border-color: #0007D1;
-  height: 35px
+  height: 50px
 }
+

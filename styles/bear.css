@@ -7,7 +7,7 @@ height: 700px
 }
 
 button {
-  border-style: solid;
-  border-color: #0007D1;
-  height: 35px
+  border-style: dotted;
+  border-color: #DF01A5;
+  height: 50px;
 }
